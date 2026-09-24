@@ -1,0 +1,43 @@
+﻿body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#container {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#masthead {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#navigation {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#content {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#sidebar {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#footer {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.float_right{
+	float:right
+}
+ .titulo-campamento { 
+    font-family: 'Chewy', cursive; 
+    color: #E24B4A; 
+    font-size: 40px; 
+    }
