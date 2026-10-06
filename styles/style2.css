@@ -142,3 +142,10 @@ a:hover {
 .style_italic {
 	font-style: italic;
 }
+.titulo-campamento { 
+	font-family: 'Chewy', 
+		cursive; 
+	color: #E24B4A; 
+	font-size: 40px; 
+	text-shadow: -2px -2px 0 #FAF6F0, 2px -2px 0 #FAF6F0, -2px 2px 0 #FAF6F0, 2px 2px 0 #FAF6F0;
+	margin: 0; }
